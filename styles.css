@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: "Noto Sans TC", sans-serif;
+  background-color: #ffffff;
+  color: #333;
+}
+header {
+  background-color: #0055A4;
+  color: white;
+  padding: 20px 40px;
+  text-align: center;
+}
+nav {
+  background-color: #003f7f;
+  padding: 10px 40px;
+  display: flex;
+  gap: 20px;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+.section {
+  padding: 40px;
+  max-width: 1000px;
+  margin: auto;
+}
+.section h2 {
+  color: #0055A4;
+}
+footer {
+  background-color: #f2f2f2;
+  padding: 20px 40px;
+  text-align: center;
+  font-size: 14px;
+}
+.certifications img {
+  max-width: 150px;
+  margin: 10px;
+}
